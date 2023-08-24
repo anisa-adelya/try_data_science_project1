@@ -1,4 +1,4 @@
-# try_data_science_project1
+# News Detection Using Library SKLEARN
 This project learns how to perform fake news detection using Python and machine learning. 
 The machine learning model created utilizes the sklearn library. This is done by constructing a TfidfVectorizer on the provided dataset. 
 Prior to this, the dataset already contains labels indicating whether the news is fake or real. 
